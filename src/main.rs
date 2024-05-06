@@ -1,3 +1,10 @@
+mod config;
+mod infrastructures;
+mod models;
+mod route;
+mod services;
+use crate::route::Router;
+
 fn main() {
-    println!("Hello, world!");
+    Router::route();
 }

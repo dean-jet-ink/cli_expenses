@@ -1,0 +1,26 @@
+[
+  {
+    "name": "test",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 100,
+    "date": "2024-04-01"
+  },
+  {
+    "name": "test",
+    "category": {
+      "Expense": "Food"
+    },
+    "price": 500,
+    "date": "2024-04-01"
+  },
+  {
+    "name": "test",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 3000000,
+    "date": "2024-04-30"
+  }
+]
